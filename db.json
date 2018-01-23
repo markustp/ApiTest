@@ -15,6 +15,18 @@
       }]
     },
 
+  "boostApiTime":
+    {
+      "values" : [{
+        "identifier" :{
+          "status" : "OK"
+        },
+        "properties" :{
+          "current_time" : "12:03:49"
+        },
+        "attributes" :{}
+      }]
+    },
   "profile": {
     "name": "typicode"
   }
