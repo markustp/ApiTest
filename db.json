@@ -10,7 +10,8 @@
       "values":[{
         "identifier":{"status":"OK"},
         "properties":{"name":"sparing","status":"true","text":"Hverdager 08-16"},
-        "attributes":{}
+        "attributes":{},
+        "requested" :[]
       }]
     },
 
